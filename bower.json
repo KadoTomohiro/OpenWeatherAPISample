@@ -1,0 +1,22 @@
+{
+  "name": "weatheSample",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "KadoTomohiro <kado.tomohiro@jp.fujitsu.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.8",
+    "angular-resource": "~1.4.8"
+  }
+}
